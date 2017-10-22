@@ -1,0 +1,7 @@
+Calvin Hoy (100954276)
+
+Oct 3, 2017 (1:21pm - 4:32pm)
+- New activity created "activity_create_account".
+- Set Background color of CreateAccount activity to "mint".
+- Made the "Create New Account" TextView start the CreateAccount activity on click.
+- Made a Button "Cancel" that finishes the activity.
